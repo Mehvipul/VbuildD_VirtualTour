@@ -1,0 +1,12 @@
+
+**Project Overview:** Developed vbuildd, an innovative virtual tour platform tailored for showcasing homes before construction commences. The project aimed to revolutionize the real estate market by providing prospective buyers and investors with immersive 3D experiences of properties, enabling them to explore and visualize architectural designs and layouts in detail.
+
+- **Key Contributions:**
+  - Led a cross-functional team of developers and designers in creating highly interactive and photorealistic 3D environments using Unity and Unreal Engine.
+  - Integrated advanced rendering techniques and VR compatibility to ensure a lifelike experience across multiple devices and platforms.
+  - Collaborated closely with architects and real estate professionals to accurately translate architectural blueprints and design concepts into virtual environments.
+
+- **Key Achievements:**
+  - Significantly boosted client engagement and sales conversion rates by offering compelling virtual tours, resulting in a 40% increase in lead generation.
+  - Optimized performance and user interface to deliver seamless navigation and intuitive controls, enhancing overall user satisfaction.
+  - Implemented iterative improvements based on user feedback, refining features such as interactive room customization and real-time lighting adjustments.
